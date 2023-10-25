@@ -6,10 +6,6 @@
   <img src=".github/preview.png" width="100%" />
 </p>
 
-## 💻 Projeto
-
-Este projeto é um tutorial que ensina a como criar o site dos **Guardiões da Galáxia** ao usar _HTML_, _CSS_ e _JavaScript_.
-
 ## 🚀 Tecnologias
 
 - HTML
